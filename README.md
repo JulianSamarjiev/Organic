@@ -9,4 +9,5 @@ This project is meant to be an open canvas for collaboration, contribute any con
 #### Guidelines:
 
 1. Please add your username/name and contribution description (content addition, design change, library added, functionality added etc.) to the README
-2. No offensive content
+2. Add functionality, or design iterations, instead of meme's and/or pointless content etc.
+3. No offensive content
